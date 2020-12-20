@@ -1,0 +1,6 @@
+Django
+
+# REST API
+djangorestframework
+django-cors-headers>=3.0
+django-filter==2.4.0
